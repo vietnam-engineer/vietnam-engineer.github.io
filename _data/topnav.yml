@@ -1,0 +1,97 @@
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: KT phần mềm
+      folderitems:
+        - title: Ngôn ngữ lập trình
+          url: /languages.html
+        - title: Cấu trúc dữ liệu và giải thuật
+          url: /ds_algo.html
+        - title: Lập trình Linux application
+          url: /lapp.html
+        - title: Lập trình Linux device driver
+          url: /ldd.html
+        - title: Lập trình cho RTOS
+          url: /lrtos.html
+        - title: Quản lý phiên bản mã nguồn
+          url: /vsc.html
+        - title: Biên dịch phần mềm
+          url: /build_sw.html
+        - title: Kiểm thử phần mềm
+          url: /test_sw.html
+        - title: Gỡ lỗi phần mềm
+          url: /debug_sw.html
+        - title: Hệ điều hành
+          url: /os.html
+        - title: Thiết kế phần mềm
+          url: /design_sw.html
+        - title: Quản lý dự án phần mềm
+          url: /manage_proj.html
+    - title: KT điện tử
+      folderitems:
+        - title: Lý thuyết mạch
+          url: /ltm.html
+        - title: Điện tử tương tự
+          url: /dttt.html
+        - title: Điện tử số
+          url: /dts.html
+        - title: Mạch tích hợp khả trình FPGA
+          url: /fpga.html
+        - title: Kiến trúc vi xử lý
+          url: /ktvxl.html
+        - title: Kiến trúc máy tính
+          url: /ktmt.html
+        - title: Kiến trúc vi điều khiển
+          url: /ktvdk.html
+        - title: Kỹ thuật đo lường
+          url: /ktdl.html
+    - title: KT truyền thông
+      folderitems:
+        - title: Hệ thống truyền thông
+          url: /httt.html
+        - title: Truyền thông hữu tuyến
+          url: /ttht.html
+        - title: Truyền thông vô tuyến
+          url: /ttvt.html
+        - title: Mạng máy tính
+          url: /mmt.html
+        - title: Mạng di động
+          url: /mdd.html
+    - title: Đầu tư
+      folderitems:
+        - title: Kế toán
+          url: /ke_toan.html
+        - title: Kinh tế vĩ mô
+          url: /kt_vi_mo.html
+        - title: Phân tích cơ bản
+          url: /ptcb.html
+        - title: Phân tích kỹ thuật
+          url: /ptkt.html
+    - title: Ngôn ngữ
+      folderitems:
+        - title: Tiếng Việt
+          url: /tieng_viet.html
+        - title: Tiếng Anh
+          url: /tieng_anh.html
+        - title: Tiếng Nhật
+          url: /tieng_nhat.html
+    - title: Thư giãn
+      folderitems:
+        - title: Sách
+          url: /sach.html
+        - title: Âm nhạc
+          url: /am_nhac.html
+        - title: Phim
+          url: /phim.html
+        - title: Truyện cười
+          url: /truyen_cuoi.html
+    - title: Bản thân
+      folderitems:
+        - title: Tôi là ai?
+          url: /toi_la_ai.html
+        - title: Kinh nghiệm
+          url: /kinh_nghiem.html
+        - title: Trải nghiệm
+          url: /trai_nghiem.html
+        - title: Suy ngẫm
+          url: /suy_ngam.html

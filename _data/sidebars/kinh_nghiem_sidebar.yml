@@ -1,0 +1,29 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Chia sẻ kinh nghiệm
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Kinh nghiệm chăm sóc con
+    output: web, pdf
+
+  - title: Kinh nghiệm ứng tuyển việc làm
+    output: web, pdf
+
+  - title: Kinh nghiệm sinh sống và làm việc tại Nhật
+    output: web, pdf

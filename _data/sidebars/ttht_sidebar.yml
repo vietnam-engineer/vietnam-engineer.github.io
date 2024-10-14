@@ -1,0 +1,42 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Truyền thông hữu tuyến
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Lý thuyết truyền dẫn thông tin
+    output: web, pdf
+
+  - title: UART
+    output: web, pdf
+
+  - title: I2C
+    output: web, pdf
+
+  - title: SPI
+    output: web, pdf
+
+  - title: USB
+    output: web, pdf
+
+  - title: CAN
+    output: web, pdf
+
+  - title: Ethernet
+    output: web, pdf
+

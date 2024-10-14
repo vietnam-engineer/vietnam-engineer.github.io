@@ -1,0 +1,68 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Lập trình Linux application
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Các khái niệm cơ bản
+    output: web, pdf
+
+  - title: Tệp tin
+    output: web, pdf
+
+  - title: Tiến trình
+    output: web, pdf
+  
+  - title: Luồng
+    output: web, pdf
+  
+  - title: Truyền thông liên tiến trình
+    output: web, pdf
+    folderitems:
+
+    - title: Tổng quan
+      output: web, pdf
+
+      subfolders:
+
+      - title: System V message queues
+        output: web, pdf
+
+      - title: System V semaphores
+        output: web, pdf
+
+      - title: System V shared memory
+        output: web, pdf
+
+      - title: POSIX message queues
+        output: web, pdf
+
+      - title: POSIX semaphores
+        output: web, pdf
+
+      - title: POSIX shared memory
+        output: web, pdf
+
+      - title: Memory mapping
+        output: web, pdf
+
+  - title: Bộ nhớ
+    output: web, pdf
+
+  - title: Socket
+    output: web, pdf

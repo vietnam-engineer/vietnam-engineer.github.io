@@ -1,0 +1,45 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Ngôn ngữ lập trình
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Viết code sạch đẹp
+    output: web, pdf
+
+  - title: Viết code hiệu quả
+    output: web, pdf
+
+  - title: C
+    output: web, pdf
+
+  - title: C++
+    output: web, pdf
+
+  - title: Rust
+    output: web, pdf
+
+  - title: Python
+    output: web, pdf
+
+  - title: Javascript
+    output: web, pdf
+
+  - title: Shell scripts
+    output: web, pdf
+

@@ -1,0 +1,38 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Biên dịch phần mềm
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Giới thiệu chung
+    output: web, pdf
+
+  - title: Trình biên dịch
+    output: web, pdf
+
+  - title: Makefile
+    output: web, pdf
+
+  - title: CMakeLists
+    output: web, pdf
+
+  - title: Buildroot
+    output: web, pdf
+
+  - title: Yocto
+    output: web, pdf

@@ -1,0 +1,35 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Mạng máy tính
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Tầng ứng dụng
+    output: web, pdf
+
+  - title: Tầng vận tải
+    output: web, pdf
+
+  - title: Tầng mạng
+    output: web, pdf
+
+  - title: Tầng liên kết
+    output: web, pdf
+
+  - title: Tầng vật lý
+    output: web, pdf

@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Lập trình Linux device driver
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Các khái niệm cơ bản
+    output: web, pdf
+
+  - title: Device tree
+    output: web, pdf
+
+  - title: Kernel module
+    output: web, pdf
+
+  - title: Character driver
+    output: web, pdf
+    folderitems:
+
+    - title: Tổng quan
+      output: web, pdf
+
+      subfolders:
+      - title: Serial driver
+        output: web, pdf
+
+  - title: Block driver
+    output: web, pdf
+
+  - title: Network driver
+    output: web, pdf

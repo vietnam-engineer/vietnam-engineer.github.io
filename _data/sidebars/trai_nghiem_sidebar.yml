@@ -1,0 +1,26 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Chia sẻ trải nghiệm
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Trải nghiệm về cuộc sống hôn nhân
+    output: web, pdf
+
+  - title: Trải nghiệm về những chuyến đi
+    output: web, pdf

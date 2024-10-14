@@ -1,0 +1,43 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Gỡ lỗi phần mềm
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Các loại lỗi
+    output: web, pdf
+
+  - title: Các phương pháp gỡ lỗi
+    output: web, pdf
+
+  - title: Ứng dụng dynamic analysis
+    output: web, pdf
+    folderitems:
+
+    - title: Tổng quan
+      output: web, pdf
+
+      subfolders:
+      - title: GDB
+        output: web, pdf
+
+      - title: Valgrind
+        output: web, pdf
+
+  - title: Ứng dụng static analysis
+    output: web, pdf

@@ -1,0 +1,74 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Sách
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Sách làm người
+    output: web, pdf
+    folderitems:
+
+    - title: Giới thiệu
+      output: web, pdf
+
+      subfolders:
+      - title: 7 thói quen của người thành công
+        output: web, pdf
+        subfolderitems:
+
+        - title: Giới thiệu về cuốn sách
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_gioi_thieu.html
+          output: web
+
+        - title: Các khái niệm chung
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_cac_khai_niem.html
+          output: web,pdf
+
+        - title: Thói quen 1 - Luôn chủ động
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_1.html
+          output: web,pdf
+
+        - title: Thói quen 2 - Bắt đầu từ mục tiêu xác định
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_2.html
+          output: web,pdf
+
+        - title: Thói quen 3 - Ưu tiên cho điều quan trọng nhất
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_3.html
+          output: web,pdf
+
+        - title: Thói quen 4 - Tư duy cùng thắng
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_4.html
+          output: web,pdf
+
+        - title: Thói quen 5 - Lắng nghe và thấu hiểu
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_5.html
+          output: web,pdf
+
+        - title: Thói quen 6 - Đồng tâm hiệp lực
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_6.html
+          output: web,pdf
+
+        - title: Thói quen 7 - Rèn giũa bản thân
+          url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_7.html
+          output: web,pdf
+
+  - title: Sách làm cha
+    output: web, pdf
+
+  - title: Sách làm ăn
+    output: web, pdf

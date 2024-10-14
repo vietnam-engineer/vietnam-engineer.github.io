@@ -1,0 +1,49 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Hệ điều hành
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Nguyên lý chung
+    output: web
+    folderitems:
+
+    - title: Tổng quan
+      output: web
+
+      subfolders:
+      - title: Các khái niệm cơ bản
+        output: web, pdf
+
+      - title: Quản lý tiến trình
+        output: web, pdf
+
+      - title: Quản lý bộ nhớ
+        output: web, pdf
+
+      - title: Quản lý ngoại vi
+        output: web, pdf
+
+      - title: Quản lý tệp tin
+        output: web, pdf
+
+  - title: Linux kernel
+    output: web
+
+  - title: μITRON
+    output: web
