@@ -27,3 +27,8 @@ entries:
 
   - title: Kinh nghiệm sinh sống và làm việc tại Nhật
     output: web, pdf
+    folderitems:
+
+    - title: Làm hồ sơ đề nghị cấp tư cách vĩnh trú
+      url: /ho_so_vinh_tru.html
+      output: web, pdf
