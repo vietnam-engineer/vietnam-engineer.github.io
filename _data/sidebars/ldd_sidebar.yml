@@ -32,6 +32,9 @@ entries:
     - title: Giới thiệu về driver
       url: /driver_overview.html
       output: web, pdf
+    - title: Giới thiệu về built-in và loadable driver
+      url: /builtin_and_loadable.html
+      output: web, pdf
 
   - title: Character driver
     output: web, pdf
