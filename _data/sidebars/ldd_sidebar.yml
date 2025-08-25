@@ -41,6 +41,7 @@ entries:
     folderitems:
 
     - title: Tổng quan
+      url: /char_driver_overview.html
       output: web, pdf
 
       subfolders:
