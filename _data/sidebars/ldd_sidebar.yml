@@ -45,8 +45,13 @@ entries:
       output: web, pdf
 
       subfolders:
-      - title: Serial driver
+      - title: UART device driver
         output: web, pdf
+        subfolderitems:
+
+        - title:  UART device
+          url: /uart_device_overview.html
+          output: web
 
   - title: Block driver
     output: web, pdf
