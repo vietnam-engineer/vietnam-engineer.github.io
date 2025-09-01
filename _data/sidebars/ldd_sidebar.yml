@@ -41,6 +41,9 @@ entries:
     - title: Device Tree Parsing
       url: /device_tree_parsing.html
       output: web, pdf
+    - title: Device Tree Overlay
+      url: /device_tree_overlay.html
+      output: web, pdf
 
   - title: Device driver
     output: web, pdf
