@@ -35,6 +35,9 @@ entries:
     - title: Device Tree Binary
       url: /device_tree_binary.html
       output: web, pdf
+    - title: Device Tree Parsing
+      url: /device_tree_parsing.html
+      output: web, pdf
 
   - title: Device driver
     output: web, pdf
