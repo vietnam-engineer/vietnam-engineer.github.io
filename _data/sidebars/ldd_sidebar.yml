@@ -32,6 +32,9 @@ entries:
     - title: Device Tree Source
       url: /device_tree_source.html
       output: web, pdf
+    - title: Device Tree Binary
+      url: /device_tree_binary.html
+      output: web, pdf
 
   - title: Device driver
     output: web, pdf
