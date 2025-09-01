@@ -24,6 +24,11 @@ entries:
 
   - title: Device tree
     output: web, pdf
+    folderitems:
+
+    - title: Giới thiệu về Device Tree
+      url: /device_tree_overview.html
+      output: web, pdf
 
   - title: Device driver
     output: web, pdf
