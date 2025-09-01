@@ -55,6 +55,9 @@ entries:
         - title: Thiết kế UART device driver
           url: /uart_device_driver_design.html
           output: web
+        - title: Triển khai UART device driver
+          url: /uart_device_driver_implementation.html
+          output: web
 
   - title: Block driver
     output: web, pdf
