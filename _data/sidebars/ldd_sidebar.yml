@@ -24,20 +24,63 @@ entries:
 
   - title: Device tree
     output: web, pdf
+    folderitems:
 
-  - title: Kernel module
+    - title: Giới thiệu về Device Tree
+      url: /device_tree_overview.html
+      output: web, pdf
+    - title: Device Tree Source
+      url: /device_tree_source.html
+      output: web, pdf
+    - title: Device Tree Binary
+      url: /device_tree_binary.html
+      output: web, pdf
+    - title: Device Tree Compiler
+      url: /device_tree_compiler.html
+      output: web, pdf
+    - title: Device Tree Parsing
+      url: /device_tree_parsing.html
+      output: web, pdf
+    - title: Device Tree Overlay
+      url: /device_tree_overlay.html
+      output: web, pdf
+
+  - title: Device driver
     output: web, pdf
+    folderitems:
+
+    - title: Giới thiệu về driver
+      url: /driver_overview.html
+      output: web, pdf
+    - title: Giới thiệu về built-in và loadable driver
+      url: /builtin_and_loadable.html
+      output: web, pdf
 
   - title: Character driver
     output: web, pdf
     folderitems:
 
     - title: Tổng quan
+      url: /char_driver_overview.html
       output: web, pdf
 
       subfolders:
-      - title: Serial driver
+      - title: UART device driver
         output: web, pdf
+        subfolderitems:
+
+        - title:  UART device
+          url: /uart_device_overview.html
+          output: web
+        - title: Thiết kế UART device driver
+          url: /uart_device_driver_design.html
+          output: web
+        - title: Triển khai UART device driver
+          url: /uart_device_driver_implementation.html
+          output: web
+        - title: Kiểm thử UART device driver
+          url: /uart_device_driver_test.html
+          output: web
 
   - title: Block driver
     output: web, pdf
