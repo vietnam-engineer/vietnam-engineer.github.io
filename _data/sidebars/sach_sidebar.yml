@@ -67,6 +67,14 @@ entries:
           url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_7.html
           output: web,pdf
 
+      - title: Vị tu sĩ bán chiếc Ferrari
+        output: web, pdf
+        subfolderitems:
+
+        - title: Giới thiệu về cuốn sách
+          url: /vi_tu_si_ban_chiec_ferrari_gioi_thieu.html
+          output: web
+
   - title: Sách làm cha
     output: web, pdf
 
