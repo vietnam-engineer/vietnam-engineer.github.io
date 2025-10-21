@@ -75,6 +75,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_gioi_thieu.html
           output: web
 
+        - title: Nguyên tắc 1 - Làm chủ tâm trí
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_1.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
