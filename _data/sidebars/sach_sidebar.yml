@@ -83,6 +83,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_2.html
           output: web,pdf
 
+        - title: Nguyên tắc 3 - Cải tiến bản thân liên tục
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_3.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
