@@ -79,6 +79,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_1.html
           output: web,pdf
 
+        - title: Nguyên tắc 2 - Theo đuổi mục đích đời mình
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_2.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
