@@ -91,6 +91,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_4.html
           output: web,pdf
 
+        - title: Nguyên tắc 5 - Trân trọng thời gian của mình
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_5.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
