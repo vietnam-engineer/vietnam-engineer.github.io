@@ -87,6 +87,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_3.html
           output: web,pdf
 
+        - title: Nguyên tắc 4 - Sống có kỷ luật
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_4.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
