@@ -95,6 +95,10 @@ entries:
           url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_5.html
           output: web,pdf
 
+        - title: Nguyên tắc 6 - Phục vụ cộng đồng
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_6.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
