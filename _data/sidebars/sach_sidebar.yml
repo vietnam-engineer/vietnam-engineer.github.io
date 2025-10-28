@@ -67,6 +67,42 @@ entries:
           url: /bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_7.html
           output: web,pdf
 
+      - title: Vị tu sĩ bán chiếc Ferrari
+        output: web, pdf
+        subfolderitems:
+
+        - title: Giới thiệu về cuốn sách
+          url: /vi_tu_si_ban_chiec_ferrari_gioi_thieu.html
+          output: web
+
+        - title: Nguyên tắc 1 - Làm chủ tâm trí
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_1.html
+          output: web,pdf
+
+        - title: Nguyên tắc 2 - Theo đuổi mục đích đời mình
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_2.html
+          output: web,pdf
+
+        - title: Nguyên tắc 3 - Cải tiến bản thân liên tục
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_3.html
+          output: web,pdf
+
+        - title: Nguyên tắc 4 - Sống có kỷ luật
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_4.html
+          output: web,pdf
+
+        - title: Nguyên tắc 5 - Trân trọng thời gian của mình
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_5.html
+          output: web,pdf
+
+        - title: Nguyên tắc 6 - Phục vụ cộng đồng
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_6.html
+          output: web,pdf
+
+        - title: Nguyên tắc 7 - Sống với hiện tại
+          url: /vi_tu_si_ban_chiec_ferrari_nguyen_tac_7.html
+          output: web,pdf
+
   - title: Sách làm cha
     output: web, pdf
 
