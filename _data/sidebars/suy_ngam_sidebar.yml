@@ -20,3 +20,19 @@ entries:
       type: frontmatter
 
 
+  - title: Cuộc sống
+    output: web, pdf
+    folderitems:
+
+    - title: Chuyện cái đồng hồ báo thức
+      output: web, pdf
+      url: /chuyen_cai_dong_ho_bao_thuc.html
+
+  - title: Chính trị
+    output: web, pdf
+
+  - title: Kinh tế
+    output: web, pdf
+
+  - title: Xã hội
+    output: web, pdf
