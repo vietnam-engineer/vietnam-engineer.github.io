@@ -1,5 +1,6 @@
 ---
 title: Thói quen 2 - Bắt đầu từ mục tiêu xác định
+last_updated: Ngày 6 tháng 11 năm 2025
 sidebar: sach_sidebar
 summary: "Thế nào là bắt đầu từ mục tiêu xác định? Lợi ích của thói quen này là gì? Làm thế nào để rèn luyện được thói quen này?"
 permalink: bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_2.html
@@ -8,7 +9,7 @@ folder: bay_thoi_quen
 
 ## Thế nào là bắt đầu từ mục tiêu xác định?
 
-Bắt đầu từ mục tiêu xác định có nghĩa là thực hiện các vai trò khác nhau trong cuộc đời với những giá trị và phương hướng rõ ràng.
+Bắt đầu từ mục tiêu xác định có nghĩa là thực hiện các vai trò khác nhau trong cuộc đời dựa trên sự hiểu biết rõ ràng về những kết quả mong muốn, và cả những giá trị cốt lõi của bản thân.
 
 Nhiều người trong chúng ta cố gắng lao vào làm việc ngày một nhiều hơn để leo lên chiếc thang thu nhập hay danh vọng, nhưng rồi cuối cùng lại phát hiện ra rằng ta đã leo nhầm chiếc thang. Những gì ta đã đạt được nhiều khi phải trả giá bằng những thứ còn quý hơn như thế. Tham vọng của chúng ta đã che khuất những gì thực sự có ý nghĩa với mình. Cuộc sống sẽ khác đi nếu chúng ta nhận thức được điều gì thực sự quan trọng, và luôn giữ điều đó trong tâm trí mình.
 
@@ -33,6 +34,12 @@ Khi cả 4 yếu tố này ở mức độ cao và bền vững, bạn sẽ đư
 ## Làm sao để rèn luyện được thói quen này?
 
 
+- Luôn hình dung rõ ràng về mục tiêu muốn đạt được trước khi bắt tay vào thực hiện. Hãy cố gắng nhìn thấy, cảm thấy, trải nghiệm trước khi thực sự hành động. Ví dụ:
+    - Trước khi bắt đầu cuộc hành trình, cần xác định địa điểm muốn đến, và vạch ra một lộ trình tốt nhất.
+    - Trước khi phát biểu, cần xác định điều muốn nói, và ghi trước ra giấy.
+    - Trước khi xây nhà, cần hình dung rõ về kiểu dáng ngôi nhà mình muốn ở, và tạo bản vẽ thiết kế chi tiết.
+    - Trước khi bắt đầu sự nghiệp kinh doanh, cần xác định rõ sản phẩm mình muốn làm, dịch vụ mình muốn đưa vào thị trường, và lên kế hoạch về nhân sự, tài chính, nghiên cứu phát triển, sản xuất, tiếp thị…
+    - Trước khi sống tiếp, cần hình dung rõ về con người mình muốn trở thành, và lên kế hoạch để từng bước trở thành con người đó.
 - Hãy tự viết ra một bản tuyên ngôn sứ mệnh cá nhân ở những vai trò khác nhau. Đứng ở mỗi vai trò:
     - Bạn muốn trở thành người có tính cách như thế nào?
     - Bạn sẽ làm gì?
@@ -42,15 +49,9 @@ Khi cả 4 yếu tố này ở mức độ cao và bền vững, bạn sẽ đư
 
 ## Bài học rút ra từ cuốn sách này?
 
-- Luôn hình dung rõ ràng về mục tiêu muốn đạt được trước khi bắt tay vào thực hiện. Hãy cố gắng nhìn thấy, cảm thấy, trải nghiệm trước khi thực sự hành động. Hãy bắt đầu bằng cách hình dung ra đích đến trong tâm trí. Ví dụ:
-    - Trước khi bắt đầu cuộc hành trình, cần xác định địa điểm muốn đến, và vạch ra một lộ trình tốt nhất.
-    - Trước khi phát biểu, cần xác định điều muốn nói, và ghi trước ra giấy.
-    - Trước khi xây nhà, cần hình dung rõ về kiểu dáng ngôi nhà mình muốn ở, và tạo bản vẽ thiết kế chi tiết.
-    - Trước khi bắt đầu sự nghiệp kinh doanh, cần xác định rõ sản phẩm mình muốn làm, dịch vụ mình muốn đưa vào thị trường, và lên kế hoạch về nhân sự, tài chính, nghiên cứu phát triển, sản xuất, tiếp thị…
-    - Trước khi sống tiếp, cần hình dung rõ về con người mình muốn trở thành, và lên kế hoạch để từng bước trở thành con người đó.
 - Hãy luôn giữ những điều quan trọng trong tâm trí. Chìa khóa dẫn tới khả năng tạo ra sự thay đổi là một nhận thức trước sau như một: bạn là ai, bạn muốn làm gì, bạn coi trọng điều gì.
 - Nỗ lực chỉ có giá trị khi nỗ lực đó đúng hướng. Nhiều khi chúng ta đã rất nỗ lực đạt được mục tiêu, nhưng rồi lại nhận ra đó không phải cái mình cần, hoặc mình đã phải đánh đổi bằng những thứ còn giá trị hơn thế.
-- Lãnh đạo bản thân trước khi quản lý bản thân. Trả lời câu hỏi nên làm gì trước khi trả lời câu hỏi nên làm như thế nào. Nhìn nhận tổng thể trước khi đi vào chi tiết.
+- Lãnh đạo bản thân trước khi quản lý bản thân. Trả lời câu hỏi `nên làm gì` trước khi trả lời câu hỏi `nên làm như thế nào`. Nhìn nhận tổng thể trước khi đi vào chi tiết.
 - Hãy lấy nguyên tắc làm trọng tâm của cuộc đời. Đừng lấy bất kì cái gì khác như hôn nhân, gia đình, tiền bạc, công việc, đối thủ hay bản thân làm trọng tâm cuộc đời của bạn.
-- Hãy đưa ra quyết định một cách có ý thức và hiểu biết. Đừng để quyết định của bạn bị tác động bởi ngoại cảnh hoặc người khác. Chỉ có như thế, bạn mới cảm thấy an tâm và dễ chịu về quyết định của mình. Chỉ có như thế, bạn mới có thể tập trung hoàn thành công việc do mình quyết định một cách vui vẻ và thoải mái.
+- Hãy đưa ra quyết định một cách có ý thức và hiểu biết. Đừng để quyết định của bạn bị tác động bởi ngoại cảnh hoặc người khác. Chỉ có như thế, bạn mới cảm thấy an tâm và dễ chịu về quyết định của mình. Và chỉ có như thế, bạn mới có thể tập trung hoàn thành công việc do mình quyết định một cách vui vẻ và thoải mái.
 
