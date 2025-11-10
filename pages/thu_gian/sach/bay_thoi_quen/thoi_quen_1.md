@@ -1,5 +1,6 @@
 ---
 title: Thói quen 1 - Luôn chủ động
+last_updated: Ngày 6 tháng 11 năm 2025
 sidebar: sach_sidebar
 summary: "Thế nào là tính chủ động? Lợi ích của thói quen này là gì? Làm thế nào để trở thành người có tính chủ động?"
 permalink: bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_1.html
@@ -55,7 +56,7 @@ Rèn luyện được thói quen này, bạn sẽ:
     - Đó là những phản ánh rời rạc, không đúng bản chất.
     - Chúng ta có đủ khả năng để tự nhận thức bản thân mình.
 - Vấn đề không nằm ở sự việc chúng ta gặp, mà nằm ở cách chúng ta phản ứng với nó. Kích thích là việc của môi trường, còn phản ứng như thế nào lại là việc của chúng ta.
-- Hành vi là kết quả của những quyết định mà chúng ta đưa ra. Cho nên, nếu cuộc sống của chúng ta phụ thuộc vào điều kiện, hoàn cảnh thì lỗi thuộc về chúng ta, vì chúng ta đã để cho những sự việc khách quan điều khiển bản thân.
-- Hạnh phúc hay bất hạnh đều xuất phát từ sự lựa chọn của chúng ta. Chủ động lựa chọn cũng chính là sự tự do, và là nguồn gốc của hạnh phúc.
-- Hãy thừa nhận sai lầm để sửa chữa và rút ra bài học. Khi đó, thất bại của ngày hôm nay sẽ là thành công của ngày mai.
+- Nếu cuộc sống của chúng ta phụ thuộc vào điều kiện, hoàn cảnh thì lỗi thuộc về chúng ta, vì chúng ta đã cho phép những sự việc khách quan điều khiển bản thân.
+- Hạnh phúc hay bất hạnh đều xuất phát từ sự lựa chọn của chúng ta. Nếu bạn chọn sống chủ động, bạn sẽ có được sự tự do, và đó là nguồn gốc của hạnh phúc. Ngược lại, nếu bạn chọn sống bị động, bạn sẽ mất đi tự do, và đó là nguồn gốc của bất hạnh.
+- Hãy thừa nhận sai lầm để sửa chữa và rút ra bài học. Khi đó, thất bại của ngày hôm nay sẽ là bước đệm cho thành công của ngày mai.
 

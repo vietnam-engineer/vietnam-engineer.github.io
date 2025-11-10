@@ -1,5 +1,6 @@
 ---
 title: Giới thiệu về cuốn sách
+last_updated: Ngày 6 tháng 11 năm 2025
 sidebar: sach_sidebar
 summary: "Liệu cuốn sách này có phù hợp với bạn không? Bạn có thể thu nhận được những điều gì sau khi đọc nó? Bạn nên sử dụng cuốn sách này như thế nào cho hiệu quả?"
 permalink: bay_thoi_quen_cua_nguoi_thanh_cong_gioi_thieu.html
@@ -37,11 +38,9 @@ Nếu một vài điều trên đúng với bạn, và nếu bạn muốn cải 
 
 ## Bạn có muốn thay đổi bản thân theo hướng tích cực không?
 
-Hẳn là ai trong chúng ta cũng muốn nhiều điều tốt đẹp đến với mình. Nếu vậy thì, điều chúng ta cần phải làm, và cũng là điều duy nhất chúng ta có thể làm, đó là thay đổi bản thân mình theo hướng tích cực. Bởi vì ngoài bản thân mình ra, mình không thể thay đổi được những thứ nằm bên ngoài tầm kiểm soát, như là hoàn cảnh hay những người xung quanh mình. Nếu chúng ta cố gắng thay đổi người khác theo ý mình, trong khi bản thân mình còn đầy khiếm khuyết, thì chúng ta chẳng thể thành công. Không ai có thể thuyết phục được người khác thay đổi, dù bằng lý lẽ hay sự lôi kéo tình cảm. Mỗi cánh cửa của sự thay đổi chỉ có thể mở được từ bên trong bản thân mỗi người.
+Hẳn là ai trong chúng ta cũng muốn nhiều điều tốt đẹp đến với mình. Nếu vậy thì, điều chúng ta cần phải làm, và cũng là điều duy nhất chúng ta có thể làm, đó là thay đổi bản thân mình theo hướng tích cực. Bởi vì ngoài bản thân mình ra, mình không thể thay đổi được những thứ nằm bên ngoài tầm kiểm soát, như hoàn cảnh hay những người xung quanh, kể cả là những người thân. Nếu chúng ta cố gắng thay đổi người khác theo ý mình, trong khi bản thân mình còn đầy khiếm khuyết, thì chúng ta chẳng thể thành công. Không ai có thể thuyết phục được người khác thay đổi, dù bằng lý lẽ hay sự lôi kéo tình cảm. Mỗi cánh cửa của sự thay đổi chỉ có thể mở được từ bên trong bản thân mỗi người.
 
-Nói theo ngôn ngữ máy tính, điều kiện hoàn cảnh là đầu vào không thay đổi (giá trị tại từng thời điểm có thể khác đi, nhưng dải giá trị của đầu vào thì không đổi). Nếu muốn có kết quả đầu ra tốt hơn, đẹp hơn dù cho đầu vào có giá trị nào đi chăng nữa, bạn buộc phải nâng cấp bộ xử lý cũng như phần mềm vận hành của máy tính.
-
-Hãy tập trung vào bản thân, sống hết mình và tỏa sáng như mặt trời, mọi thứ sẽ phải tự thay đổi theo bạn.
+Nói theo ngôn ngữ máy tính, điều kiện hoàn cảnh là đầu vào. Nếu muốn có kết quả đầu ra tốt hơn, đẹp hơn dù cho đầu vào có giá trị nào đi chăng nữa, bạn buộc phải nâng cấp bộ xử lý cũng như phần mềm vận hành của máy tính. Hãy tập trung vào bản thân, sống hết mình và tỏa sáng như mặt trời, mọi thứ sẽ phải tự thay đổi theo bạn.
 
 
 ## Cuốn sách này có thể giúp gì cho bạn?
@@ -52,8 +51,7 @@ Tiếp theo nữa, nếu bạn vận dụng được những gì đã đọc, t�
 
 Như tựa đề, cuốn sách này sẽ tập trung làm rõ:
 - Thành công là gì? Mấu chốt của thành công nằm ở đâu?
-- Thói quen là gì?
-- Những thói quen nào đóng góp vào sự thành công?
+- Thói quen là gì? Những thói quen nào đóng góp vào sự thành công?
 
 
 ## Bạn nên sử dụng cuốn sách này như thế nào?

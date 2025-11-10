@@ -1,31 +1,11 @@
 ---
 title: Thói quen 4 - Tư duy cùng thắng
+last_updated: Ngày 6 tháng 11 năm 2025
 sidebar: sach_sidebar
 summary: "Thói quen làm nên sự thành công trong mối quan hệ giữa người với người là tư duy cùng thắng. Vậy thì thế nào là tư duy cùng thắng? Lợi ích của thói quen này là gì? Làm thế nào để rèn luyện được thói quen này?"
 permalink: bay_thoi_quen_cua_nguoi_thanh_cong_thoi_quen_4.html
 folder: bay_thoi_quen
 ---
-
-## Thành tích tập thể
-
-Thành tích tập thể là sự thành công của quan hệ tương thuộc giữa nhiều người, đem lại lợi ích chung cho tất cả mọi người trong tổ chức.
-
-Để xây dựng được sự tương thuộc hiệu quả, bản thân cần phải độc lập thực sự. Khi chúng ta trở nên độc lập (tức là luôn chủ động, lấy các nguyên tắc đúng đắn làm trọng tâm, lấy các giá trị làm động lực thúc đẩy, có khả năng tổ chức và thực hiện các ưu tiên trong cuộc sống một cách trung thực), thì chúng ta có thể lựa chọn để sống tương thuộc. Nếu không thực sự rèn luyện tính độc lập, thì mọi cố gắng xây dựng mối quan hệ với người khác cũng trở nên vô ích, vì khi khó khăn xảy ra, chúng ta sẽ không còn cơ sở để tiếp tục duy trì mối quan hệ. Bởi vì yếu tố bạn đưa các mối quan hệ không phải là lời nói hay hành động, mà là chính con người bạn. Do đó, nơi bắt đầu xây dựng mọi mối quan hệ là ở bên trong con người mình. Bạn cần đạt được những thành tích cá nhân trước khi muốn giành lấy những thành tích tập thể.
-
-Thêm vào đó, bạn cần có được độ tin cậy cao trong mối quan hệ với người khác. Mức độ tin cậy trong mối quan hệ được ví như một tài khoản tình cảm. Khi tôi nhã nhặn, tốt bụng, chân thành, giữ cam kết với bạn, tôi đã ký gửi vào tài khoản tình của tôi ở nơi bạn. Khi tôi khiến bạn bị tổn thương, tài khoản tình cảm sẽ bù đắp cho lỗi lầm đó.
-
-Khi thực hiện những điều sau, bạn sẽ ký gửi vào tài khoản tình cảm của bạn:
-- hiểu rõ điều gì là quan trọng với họ. Công nhận điều quan trọng mà họ đặt ra và đối xử với họ thông qua hiểu biết đó.
-- tỉ mỉ, ân cần và chu đáo với người mà bạn yêu quý. Hãy thể hiện tình yêu thương của bạn thông qua những hành động nhỏ.
-- nói lời, giữ lời. Trước khi hứa, bạn luôn phải tính đến những khả năng bất ngờ khiến bạn không giữ được lời hứa.
-- ngay từ đầu, hãy làm rõ các kì vọng đối với các việc cần phải làm.
-- luôn chính trực, tức là trung thực và không giả dối.
-    - Hãy luôn giữ cho lời nói của mình phù hợp với sự thật (nói đúng)
-    - Làm cho sự thật phù hợp với lời nói (nói đi đôi với làm)
-    - Đừng bao giờ nói xấu người không có mặt.
-    - Đừng bao giờ lấy chuyện của người này làm quà cho người khác.
-- đừng để những động cơ xấu khiến bạn gây ra lỗi lầm. Nếu có gây ra lỗi do hiểu lầm, hãy thành thật nhận lỗi, và tìm cách đừng để lỗi đó tái diễn.
-- yêu thương người mà bạn quan tâm mà không kèm theo bất cứ điều kiện nào, không có bất cứ sự kiểm soát nào với họ. Hãy xem họ là một cá nhân độc lập và để họ tự do hành động.
 
 
 ## Thế nào là tư duy cùng thắng?
@@ -55,6 +35,7 @@ Tư duy cùng thắng là một trong sáu mô thức của mối quan hệ gi�
     - Tư duy này xuất hiện trong một số trường hợp, ví dụ như khi tính mạng của con bạn đang gặp nguy hiểm, bạn phải suy nghĩ tìm mọi cách để cứu sống nó.
 - **cùng thắng hoặc không giao kèo**:
     - Tư duy này có nghĩa là: nếu không thể tìm ra được một giải pháp mà đôi bên cùng có lợi, thì tốt nhất là không hợp tác.
+    - Đây là một hình thức thấp hơn của tư duy cùng thắng.
 
 Quá trình cùng thắng được sinh ra từ tính cách chính trực, chín chắn và rộng lượng. Quá trình này được phát triển từ các mối quan hệ có độ tin cậy cao. Quá trình này được thể hiện bằng các thỏa thuận rõ ràng.
 - Tính chính trực: giữ vững cam kết với chính mình, và với người khác.
@@ -77,11 +58,26 @@ Khi rèn luyện được thói quen này, chúng ta sẽ có được niềm ti
 
 ## Làm sao để rèn luyện được thói quen này?
 
-Trước hết, bạn phải là người có tính cách độc lập thực sự. Tiếp theo, bạn cần xây dựng cho mình thêm 3 tính cách: chính trực, chín chắn và rộng lượng.
-Khi thảo luận, hay đàm phán với người khác, hãy:
+Trước hết, bạn phải là người có tính cách độc lập thực sự. Khi chúng ta trở nên độc lập (tức là luôn chủ động, lấy các nguyên tắc đúng đắn làm trọng tâm, lấy các giá trị làm động lực thúc đẩy, có khả năng tổ chức và thực hiện các ưu tiên trong cuộc sống một cách trung thực), thì chúng ta có thể lựa chọn để sống tương thuộc. Nếu không thực sự rèn luyện tính độc lập, thì mọi cố gắng xây dựng mối quan hệ với người khác cũng trở nên vô ích, vì khi khó khăn xảy ra, chúng ta sẽ không còn cơ sở để tiếp tục duy trì mối quan hệ. Bởi vì yếu tố bạn đưa các mối quan hệ không phải là lời nói hay hành động, mà là chính con người bạn. Do đó, nơi bắt đầu xây dựng mọi mối quan hệ là ở bên trong con người mình. Bạn cần đạt được những thành tích cá nhân trước khi muốn giành lấy những thành tích tập thể (tức là những thành tích đem lại lợi ích chung cho tất cả mọi người trong tổ chức).
+
+Thêm vào đó, bạn cần xây dựng được niềm tin trong mối quan hệ với người khác. Mức độ tin cậy trong mối quan hệ được ví như một tài khoản tình cảm. Khi tôi nhã nhặn, tốt bụng, chân thành, giữ cam kết với bạn, tôi đã ký gửi vào tài khoản tình của tôi ở nơi bạn. Nếu chẳng may tôi khiến bạn bị tổn thương, tài khoản tình cảm sẽ bù đắp cho lỗi lầm đó. Hãy thực hiện những điều sau để ký gửi vào tài khoản tình cảm:
+- hiểu rõ điều gì là quan trọng với đối tác. Công nhận điều quan trọng mà họ đặt ra và đối xử với họ thông qua hiểu biết đó.
+- tỉ mỉ, ân cần và chu đáo với người mà bạn yêu quý. Hãy thể hiện tình yêu thương của bạn thông qua những hành động nhỏ.
+- nói lời, giữ lời. Trước khi hứa, bạn luôn phải tính đến những khả năng bất ngờ khiến bạn không giữ được lời hứa.
+- ngay từ đầu, hãy làm rõ các kì vọng đối với các việc cần phải làm.
+- luôn chính trực, tức là trung thực và không giả dối.
+    - Hãy luôn giữ cho lời nói của mình phù hợp với sự thật (nói đúng)
+    - Làm cho sự thật phù hợp với lời nói (nói đi đôi với làm)
+    - Đừng bao giờ nói xấu người không có mặt.
+    - Đừng bao giờ lấy chuyện của người này làm quà cho người khác.
+- đừng để những động cơ xấu khiến bạn gây ra lỗi lầm. Nếu có gây ra lỗi do hiểu lầm, hãy thành thật nhận lỗi, và tìm cách đừng để lỗi đó tái diễn.
+- yêu thương người mà bạn quan tâm mà không kèm theo bất cứ điều kiện nào, không có bất cứ sự kiểm soát nào với họ. Hãy xem họ là một cá nhân độc lập và để họ tự do hành động.
+
+Tiếp theo, bạn cần xây dựng cho mình thêm 3 tính cách: chính trực, chín chắn và rộng lượng.
+Khi thảo luận hay đàm phán với người khác, hãy:
 - Nhìn vấn đề từ cách nhìn của người khác.
 - Nhận diện những vấn đề, mối quan tâm chính của các bên.
-- Xác định những kết quả có thể dạt được sau khi hoàn thành.
+- Xác định những kết quả có thể đạt được sau khi hoàn thành.
 - Nhận diện những phương án mới có thể áp dụng để đạt được kết quả mong muốn.
 
 
