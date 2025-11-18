@@ -28,6 +28,14 @@ entries:
       output: web, pdf
       url: /chuyen_cai_dong_ho_bao_thuc.html
 
+  - title: Công việc
+    output: web, pdf
+    folderitems:
+
+    - title: Để là chuyên gia phát triển hệ nhúng
+      output: web, pdf
+      url: /de_la_chuyen_gia_phat_trien_he_nhung.html
+
   - title: Chính trị
     output: web, pdf
 

@@ -12,5 +12,6 @@ folder: suy_ngam
 
 ## Các chủ đề tôi muốn chia sẻ suy ngẫm của bản thân
 
+- Công việc
 - Sự kiện kinh tế, chính trị, xã hội.
 - Những gì tôi quan sát được trong thực tế.
